@@ -1,4 +1,8 @@
 # mustafaskaya's Notes
 ## Summary 
 
-This repository contains all of the notes taken by [mustafaskaya](https://github.com/MustafaSKaya) for the [Lighthouse](https://www.lighthouselabs.ca/) Labs Web Development Bootcamp.
+This repository contains all of the notes taken by [mustafaskaya](https://github.com/MustafaSKaya) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
+
+## Table of Contents
+* [Week 1](./Week_1)
+  * [Day 1](./Day_1)
